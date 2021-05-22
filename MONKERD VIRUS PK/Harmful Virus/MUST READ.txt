@@ -1,0 +1,8 @@
+READ THIS
+
+This virus is called the monkee Virus, it is exteremely harmful and the only way to reverse it is to reset your computer to its factory 
+state through the windows boot menu, I will disable, and delete many crutial compents to this pc proceed with caution if your computer is
+done for then its your full responsibilty for destruction of your pc.
+
+Click on lock.bat and a command promt window will open asking for your password, the password is: unlock43  Once you type that in a folder 
+called privite will appear and there is a .bat file called monkee virus run it and enjoy :D
